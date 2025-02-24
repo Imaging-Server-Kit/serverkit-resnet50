@@ -3,8 +3,6 @@
 
 Implementation of a web server for [ResNet50 Image Classification](https://huggingface.co/microsoft/resnet-50).
 
-Author: EPFL Center for Imaging
-
 ## Installing the algorithm server with `pip`
 
 Install dependencies:
